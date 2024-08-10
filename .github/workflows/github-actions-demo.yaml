@@ -45,4 +45,4 @@ jobs:
       with:
         context: ./exercicios/para-sala/users-api-aula
         push: true
-        tags: docker push valdilanealves/aula-met-devops:1.0.0
+        tags: valdilanealves/aula-met-devops:1.0.0
